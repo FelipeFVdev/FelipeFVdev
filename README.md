@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <!-- <span>
     <img align="center" width="510" src="banners/programming-banner.svg" />
   </a> -->
@@ -14,6 +14,8 @@
   </a>
 </p>
 
+<br>
+<br>
 <!-- <div align="center">
 
 ![](https://raw.githubusercontent.com/wnqueiroz/wnqueiroz/output/github-contribution-grid-snake.svg)
