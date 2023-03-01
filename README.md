@@ -16,19 +16,17 @@
   </a>
 </p>
 
-<div align="center">
-
-<!-- ![](https://raw.githubusercontent.com/wnqueiroz/wnqueiroz/output/github-contribution-grid-snake.svg) -->
-
-</div>
-
 
 <p align="center">
   <span>
     <img align="left" width="280" style="border-radius: 80%;" src="banners/iconFelipe.jpg" />
 </p>
 
-<span>
+<div align="center">
+
+<!-- ![](https://raw.githubusercontent.com/wnqueiroz/wnqueiroz/output/github-contribution-grid-snake.svg) -->
+
+</div>
 
 ## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
