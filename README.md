@@ -19,10 +19,10 @@
 
 <div align="center">
 
-<p align="center">
-  <span>
-    <img align="left" width="280" style="border-radius: 80%;" src="banners/iconFelipe.jpg" />
-</p>
+  <p align="center">
+    <span>
+      <img align="left" width="280" style="border-radius: 80%;" src="banners/iconFelipe.jpg" />
+  </p>
 
 <!-- ![](https://raw.githubusercontent.com/wnqueiroz/wnqueiroz/output/github-contribution-grid-snake.svg) -->
 
