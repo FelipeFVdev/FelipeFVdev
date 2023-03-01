@@ -30,9 +30,9 @@
 
 </div> -->
 
-<p align="center">
+<p align="left">
   <span>
-    <img align="center" width="100" src="banners/iconFelipe.jpg" />
+    <img align="center" width="150" src="banners/iconFelipe.jpg" />
   </a>
 </p>
 
