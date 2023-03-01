@@ -7,11 +7,6 @@
   </a>
 </p>
 
-<p align="center">
-  <span>
-    <img align="center" width="280" src="banners/iconFelipe.jpg" />
-  </a>
-</p>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -29,11 +24,17 @@
   </a>
 </p>
 
-<div align="center">
+<!-- <div align="center">
 
 ![](https://raw.githubusercontent.com/wnqueiroz/wnqueiroz/output/github-contribution-grid-snake.svg)
 
-</div>
+</div> -->
+
+<p align="center">
+  <span>
+    <img align="center" width="100" src="banners/iconFelipe.jpg" />
+  </a>
+</p>
 
 ## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
