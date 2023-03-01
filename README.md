@@ -28,6 +28,8 @@
     <img align="left" width="280" style="border-radius: 80%;" src="banners/iconFelipe.jpg" />
 </p>
 
+<span>
+
 ## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 
