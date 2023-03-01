@@ -1,10 +1,10 @@
-<!-- <p align="center">
+<p align="center">
   <span>
     <img align="center" width="510" src="banners/programming-banner.svg" />
   </a>
   <!-- <span>
     <img align="center" width="350" src="banners/demon-guts.gif"/>
-  </a> -->
+  </a>
 </p> -->
 
 <p align="center">
