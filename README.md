@@ -3,7 +3,13 @@
     <img align="center" width="510" src="banners/programming-banner.svg" />
   </a>
   <span>
-    <img align="center" width="280" src="signature.png" />
+    <img align="center" width="280" src="banners/demon-guts.gif" />
+  </a>
+</p>
+
+<p align="center">
+  <span>
+    <img align="center" width="510" src="banners/iconFelipe.jpg" />
   </a>
 </p>
 
