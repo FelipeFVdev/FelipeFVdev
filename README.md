@@ -34,6 +34,15 @@
   <span>
     <img align="center" width="150" src="/banners/iconFelipe-removebg-preview.png" />
   </a>
+
+  <p align="right">
+    <!-- <span>
+      <img align="center" width="510" src="banners/programming-banner.svg" />
+    </a> -->
+    <span>
+      <img align="right" width="350" src="banners/demon-guts.gif"/>
+    </a>
+  </p>
 </p>
 
 ## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
