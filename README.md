@@ -1,11 +1,7 @@
-<p align="left">
+<p align="center">
   <!-- <span>
     <img align="center" width="510" src="banners/programming-banner.svg" />
   </a> -->
-  <span>
-    <img align="left" width="350" src="banners/demon-guts.gif"/>
-  </a>
-
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="left"
@@ -14,8 +10,6 @@
   </a>
 </p>
 
-<br>
-<br>
 <!-- <div align="center">
 
 ![](https://raw.githubusercontent.com/wnqueiroz/wnqueiroz/output/github-contribution-grid-snake.svg)
@@ -23,6 +17,10 @@
 </div> -->
 
 <p align="left">
+  <span>
+    <img align="left" width="350" src="banners/demon-guts.gif"/>
+  </span>
+
   <span>
     <img align="center" width="150" src="/banners/iconFelipe-removebg-preview.png" />
   </a>
