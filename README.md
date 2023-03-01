@@ -32,7 +32,7 @@
 
 <p align="left">
   <span>
-    <img align="center" width="150" src="banners/iconFelipe.jpg" />
+    <img align="center" width="150" src="/banners/iconFelipe-removebg-preview.png" />
   </a>
 </p>
 
