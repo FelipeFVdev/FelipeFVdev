@@ -19,16 +19,6 @@
   </a>
 </p>
 
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeFVdev&layout=compact&theme=dracula&title_color=03D361&bg_color=21262d"
-    />
-  </a>
-</p>
-
 ## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 
@@ -39,6 +29,16 @@
 - 💙 Interests: mangas 🥭, games 👾
 
 ### Languages and Tools
+
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeFVdev&layout=compact&theme=dracula&title_color=03D361&bg_color=21262d"
+    />
+  </a>
+</p>
 
 <br/>
 
