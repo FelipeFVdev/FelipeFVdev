@@ -30,16 +30,6 @@
 
 ### Languages and Tools
 
-
-<p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeFVdev&layout=compact&theme=dracula&title_color=03D361&bg_color=21262d"
-    />
-  </a>
-</p>
-
 <br/>
 
 <p align="left">
@@ -82,6 +72,17 @@
       width="40"
       height="40"
     />
+</p>
+
+<br>
+
+<p align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeFVdev&layout=compact&theme=dracula&title_color=03D361&bg_color=21262d"
+    />
+  </a>
 </p>
   
   
