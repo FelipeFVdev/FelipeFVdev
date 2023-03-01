@@ -3,13 +3,13 @@
     <img align="center" width="510" src="banners/programming-banner.svg" />
   </a> -->
   <span>
-    <img align="center" width="510" border-radius="10" src="banners/demon-guts.gif"/>
+    <img align="center" width="510" style="border-radius: 10px;" src="banners/demon-guts.gif"/>
   </a>
 </p>
 
 <p align="center">
   <span>
-    <img align="center" width="280" border-radius="50" src="banners/iconFelipe.jpg" />
+    <img align="center" width="280" style="border-radius: 50px;" src="banners/iconFelipe.jpg" />
   </a>
 </p>
 
