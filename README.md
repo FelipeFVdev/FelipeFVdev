@@ -31,7 +31,7 @@
 ### Languages and Tools
 
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
