@@ -1,15 +1,15 @@
 <p align="center">
-  <span>
+  <!-- <span>
     <img align="center" width="510" src="banners/programming-banner.svg" />
-  </a>
+  </a> -->
   <span>
-    <img align="center" width="280" src="banners/demon-guts.gif" />
+    <img align="center" width="510" border-radius="10" src="banners/demon-guts.gif"/>
   </a>
 </p>
 
 <p align="center">
   <span>
-    <img align="center" width="510" src="banners/iconFelipe.jpg" />
+    <img align="center" width="280" border-radius="50" src="banners/iconFelipe.jpg" />
   </a>
 </p>
 
