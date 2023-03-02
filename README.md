@@ -84,7 +84,7 @@
       alt="sql-server"
       width="40" 
       height="40" 
-      color="fff"
+      atyle="color: white;"
     /> 
   </a>
   
