@@ -33,14 +33,7 @@
 <br/>
 
 <p align="left">
-  <a href="https://aws.amazon.com" target="_blank">
-    <img
-      src="icons/amazonwebservices-original-wordmark.svg"
-      alt="aws"
-      width="40"
-      height="40"
-    />
-  </a>
+  
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img
       src="icons/javascript-original.svg"
@@ -49,6 +42,25 @@
       height="40"
     />
   </a>
+  
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
+    <img
+      src=""
+      alt="html"
+      width="40"
+      height="40"
+    />
+  </a>
+  
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
+    <img
+      src=""
+      alt="css"
+      width="40"
+      height="40"
+    />
+  </a>
+  
   <a href="https://nodejs.org" target="_blank">
     <img
       src="icons/nodejs-original-wordmark.svg"
@@ -57,6 +69,7 @@
       height="40"
     />
   </a>
+  
   <a href="https://reactjs.org/" target="_blank">
     <img
       src="icons/react-original-wordmark.svg"
@@ -65,6 +78,7 @@
       height="40"
     />
   </a>
+  
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img
       src="icons/typescript-original.svg"
@@ -72,6 +86,17 @@
       width="40"
       height="40"
     />
+  </a>
+
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
+    <img
+      src=""
+      alt="html"
+      width="40"
+      height="40"
+    />
+  </a>
+  
 </p>
 
 <br>
