@@ -87,15 +87,6 @@
       height="40"
     />
   </a>
-
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
-    <img
-      src=""
-      alt="html"
-      width="40"
-      height="40"
-    />
-  </a>
   
 </p>
 
