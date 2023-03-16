@@ -25,7 +25,7 @@
 ### Abstract
 
 - 👨‍💻 I'm currently working full-time at **Vivo - Telefônica**.
-- 🌱 Learning more about and studying: **SQL server, Java and .NET**.
+- 🌱 Learning more about and studying: **LARAVEL, VUE.js, SQL server, Java and Python**.
 - 💙 Interests: mangas 🥭, games 👾
 
 ### Languages and Tools
