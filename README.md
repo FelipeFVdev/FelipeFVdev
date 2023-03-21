@@ -46,7 +46,7 @@
   <a href="https://laravel.com/" target="_blank">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"
-      alt="php"
+      alt="laravel"
       width="40"
       height="40"
     />
@@ -58,15 +58,6 @@
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
       alt="javascript"
-      width="40"
-      height="40"
-    />
-  </a>
-  
-  <a href="https://nodejs.org" target="_blank">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"
-      alt="nodejs"
       width="40"
       height="40"
     />
@@ -93,11 +84,31 @@
   <a href="https://vuejs.org/" target="_blank">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-plain.svg"
-      alt="typescript"
+      alt="vuejs"
       width="40"
       height="40"
     />
   </a>
+  
+ <a href="https://angular.io/" target="_blank">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg"
+      alt="angular"
+      width="40"
+      height="40"
+    />
+  </a>
+  
+  <a href="https://nodejs.org" target="_blank">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"
+      alt="nodejs"
+      width="40"
+      height="40"
+    />
+  </a>
+  
+  <br>
   
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img
@@ -134,6 +145,8 @@
     />
   </a>
   
+  <br>
+  
   <a href="https://www.java.com/pt-BR/" target="_blank">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg"
@@ -152,6 +165,8 @@
     />
   </a>
   
+  <br>
+  
   <a href="https://www.python.org/" target="_blank">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"
@@ -164,11 +179,13 @@
   <a href="https://jupyter.org/" target="_blank">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-plain.svg"
-      alt="python"
+      alt="jupyter"
       width="40"
       height="40"
     />
   </a>
+  
+  <br>
   
   <a href="https://docs.microsoft.com/pt-br/sql/sql-server/?view=sql-server-ver16" target="_blank"> 
     <img 
@@ -184,13 +201,23 @@
 
 <br>
 
-<p align="left">
+
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeFVdev&layout=compact&theme=dark&title_color=fff&text_color=f8f8f2&bg_color=282a36"
     />
   </a>
+  
+  <a href="https://git-scm.com/" target="_blank">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"
+      alt="git"
+      width="40"
+      height="40"
+    />
+  </a>
+  
 </p>
   
   
