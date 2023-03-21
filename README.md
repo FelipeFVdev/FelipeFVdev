@@ -52,6 +52,8 @@
     />
   </a>
   
+  <br>
+  
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
@@ -61,7 +63,7 @@
     />
   </a>
   
-    <a href="https://nodejs.org" target="_blank">
+  <a href="https://nodejs.org" target="_blank">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"
       alt="nodejs"
@@ -115,7 +117,7 @@
     /> 
   </a>
   
-    <a href="https://getbootstrap.com" target="_blank"> 
+  <a href="https://getbootstrap.com" target="_blank"> 
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
       alt="bootstrap" 
