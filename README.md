@@ -34,6 +34,15 @@
 
 <p align="left">
   
+  <a href="https://www.php.net/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original-wordmark.svg"
+      alt="php"
+      width="40"
+      height="40"
+    />
+  </a>
+  
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img
       src="icons/javascript-original.svg"
