@@ -129,6 +129,7 @@
 </p>
   
   
+  
 ### Find me around the web 🌎:
 
 - 💼 Connecting <a href="https://www.linkedin.com/in/felipe-farias-vieira-3a394a1ab/">LinkedIn</a>.
