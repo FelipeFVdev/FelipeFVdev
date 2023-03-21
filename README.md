@@ -200,19 +200,22 @@
 
 <br>
   
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeFVdev&layout=compact&theme=dark&title_color=fff&text_color=f8f8f2&bg_color=282a36"
-    />
-  </a>
-  
   <a href="https://git-scm.com/" target="_blank">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"
       alt="git"
       width="40"
       height="40"
+    />
+  </a>
+  
+</p>
+  
+ <p align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeFVdev&layout=compact&theme=dark&title_color=fff&text_color=f8f8f2&bg_color=282a36"
     />
   </a>
   
