@@ -162,6 +162,7 @@
       alt="spring-boot"
       width="40"
       height="40"
+      color="white"
     />
   </a>
   
