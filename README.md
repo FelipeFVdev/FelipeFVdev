@@ -225,7 +225,7 @@
   
 ### Find me around the web 🌎:
 
-- 💼 Connecting <a href="https://www.linkedin.com/in/felipe-farias-vieira-3a394a1ab/">LinkedIn</a>.
+- 💼 Connecting <a href="https://www.linkedin.com/in/felipe-farias-vieira-3a394a1ab/" target="_blank">LinkedIn</a>.
 <!--
 **FelipeFVdev/FelipeFVdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
