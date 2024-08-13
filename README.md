@@ -21,12 +21,6 @@
   </a>
 </p>
 
-<p align="left">
-  <span>
-    <img align="center" width="150" src="/banners/0001-0300.gif" />
-  </a>
-</p>
-
 ## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Felipe Farias, Full-Stack Developer </h2>
 
 ### Abstract
