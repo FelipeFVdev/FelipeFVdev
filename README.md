@@ -15,6 +15,7 @@
 
 <p align="left">
   <span>
+    <img align="center" width="150" src="/banners/icon felip cont.png" />
     <img align="center" width="150" src="/banners/iconFelipe-removebg-preview.png" />
     <img align="center" width="150" src="/banners/0001-0300.gif" />
   </a>
