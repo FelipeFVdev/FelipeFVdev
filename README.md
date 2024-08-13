@@ -27,7 +27,7 @@
 <h2 align="left">About me</h2>
 
 - 👨‍💻 I'm currently working full-time at **Vivo - Telefônica**.
-- 🌱 Learning more about and studying: **LARAVEL, VUE.js, NUXT.js, Next.js, React, and React Native**.
+- 🌱 Learning more about and studying: **Laravel, Vue, Nuxt, Next, React, and React Native**.
 
 ###
 
