@@ -37,20 +37,6 @@ const Felipe: SoftwareEngineer = {
 }
 ```
 
-</p>
-  
- <p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeFVdev&layout=compact&theme=dark&title_color=fff&text_color=f8f8f2&bg_color=282a36"
-    />
-  </a>
-  
-</p>
-  
-  
-  
 ### Find me around the world 🌎:
 ###
 
