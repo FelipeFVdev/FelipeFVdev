@@ -1,17 +1,3 @@
-<!-- <p align="center">
-  <span>
-    <img align="center" width="510" src="banners/programming-banner.svg" />
-  </a>
-  <span>
-    <img align="center" width="350" src="banners/demon-guts.gif"/>
-  </a>
-</p> -->
-
-<!-- <div align="center">
-
-![](https://raw.githubusercontent.com/wnqueiroz/wnqueiroz/output/github-contribution-grid-snake.svg)
-
-</div> -->
 ## Hi there, i am Felipe Farias! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h2>
 
 > Software Engineer | Full Stack Applications [Vivo](https://vivo.com.br/para-voce/).
