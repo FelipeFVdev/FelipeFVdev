@@ -1,6 +1,6 @@
 ## Hi there, i am Felipe Farias! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h2>
 
-> Software Engineer | Full Stack Applications [Vivo](https://vivo.com.br/para-voce/).
+> *Software Engineer | Full Stack Applications [Vivo](https://vivo.com.br/para-voce/)*.
 
 #### I am Software Engineer.
 Since 2023 i've been living and breathing fullstack development. I've been creating modern, clean and user friendly user interfaces, APIs and applications for all types and sizes of companies!
