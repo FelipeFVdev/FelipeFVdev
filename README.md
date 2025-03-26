@@ -12,7 +12,7 @@
 ![](https://raw.githubusercontent.com/wnqueiroz/wnqueiroz/output/github-contribution-grid-snake.svg)
 
 </div> -->
-## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Felipe Farias, Full-Stack Developer </h2>
+## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Felipe Farias, Software Engineer </h2>
 
 > Software Engineer | Full Stack Applications [Vivo](https://vivo.com.br/para-voce/).
 
@@ -24,7 +24,6 @@ Since 2023 i've been living and breathing fullstack development. I've been creat
 const Felipe: SoftwareEngineer = {
   languages: ["English 🇺🇸", "Portuguese 🇧🇷", "Spanish 🇪🇸"],
   hobby: "Triathlon 🚴🏃🏊",
-  
   work: {
     code: ["Javascript", "Typescript", "PHP", "Java", "HTML", "CSS", "Python", "C#"],
     tools: [
