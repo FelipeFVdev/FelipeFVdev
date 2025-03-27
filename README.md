@@ -3,7 +3,7 @@
 > *Software Engineer | Full Stack Applications [Vivo](https://vivo.com.br/para-voce/)*.
 
 #### I am Software Engineer.
-Since 2023 i've been living and breathing fullstack development. I've been creating modern, clean and user friendly user interfaces, APIs and applications for all types and sizes of companies!
+Since 2023 I've been living and breathing fullstack development. I've been creating modern, clean and user friendly user interfaces, APIs and applications for all types and sizes of companies!
 
 #### A little bit more about me 😉... 
 ```typescript
