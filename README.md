@@ -1,4 +1,4 @@
-## Hi there, i am Felipe Farias! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h2>
+## Hi there, I'm Felipe Farias! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h2>
 
 > *Software Engineer | Full Stack Applications [Vivo](https://vivo.com.br/para-voce/)*.
 
